@@ -1,0 +1,9 @@
+
+> simple-node-app@1.0.0 test
+> jest
+
+  console.log
+    Server running at http://localhost:3000
+
+      at Server.log (app.js:10:13)
+
